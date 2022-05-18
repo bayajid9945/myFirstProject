@@ -1,0 +1,15 @@
+
+ @import url("https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap");
+ h1 {
+    font-family: 'Syne Tactile', cursive;
+    text-align: center;
+    background-color: antiquewhite;
+ 
+}
+p{
+    font-size: medium;
+    background-color: rgb(218, 218, 233);
+}
+tr{
+    background-color: brown;
+}
